@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'Luban_Example' do
+  pod 'Luban', :path => '../'
+
+  target 'Luban_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
