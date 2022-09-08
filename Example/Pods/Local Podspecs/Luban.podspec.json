@@ -1,0 +1,22 @@
+{
+  "name": "Luban",
+  "version": "0.1.0",
+  "summary": "A short description of Luban.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/691075311@qq.com/Luban",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "691075311@qq.com": "691075311@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/691075311@qq.com/Luban.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Luban/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - Luban (0.1.0)
+
+DEPENDENCIES:
+  - Luban (from `../`)
+
+EXTERNAL SOURCES:
+  Luban:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Luban: 7d75a03e4f2db548c685d0761e5f92d146b1f024
+
+PODFILE CHECKSUM: 5ee56083e0efe706b3addda07770930b86e22a2d
+
+COCOAPODS: 1.11.2
